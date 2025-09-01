@@ -22,6 +22,8 @@ Here is a list of the current and planned projects in this repository:
 | `titanicModel/` | Predicting passenger survival on the Titanic dataset  | **Complete** |
 | `heartDiseaseUCIModel/` | Predicting Heart Disease target | **EDA Complete** |
 | `wineQualityModel/` | Predicting quality of red-wine | **Combined Pipeline** |
+| `/adultCensusIncome/` | Predicting income | **Complete** |
+
 
 
 
