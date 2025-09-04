@@ -11,6 +11,9 @@
 ---
 
 ### Technologies and Libraries
-***Languages:*** Python
-***Libraries:*** pandas, numpy, scikit-learn, matplotlib, seaborn, imblearn, shap, joblib
+
+***Languages***: Python
+
+***Libraries***: pandas, numpy, scikit-learn, matplotlib, seaborn, imblearn, shap, joblib
+
 ---
