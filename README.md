@@ -32,8 +32,7 @@ Each subdirectory typically includes:
 | `IEE-Fraud-Detection/`   | Large-scale transaction fraud detection using IEEE-CIS dataset          |   
 | `breastCancerWisconsin/` | Classifying malignant vs benign tumors                                  |  
 | `bankDataSet/`           | Predicting subscription to a bank term deposit                          |  
-| `churnModel/`            | Customer churn prediction                                               |   
-|
+| `churnModel/`            | Customer churn prediction                                               |                    
 | `titanicModel/`          | Titanic survival prediction                                             |  
 | `heartDiseaseUCIModel/`  | Heart disease classification                                            |  
 | `wineQualityModel/`      | Red wine quality prediction                                             | 
