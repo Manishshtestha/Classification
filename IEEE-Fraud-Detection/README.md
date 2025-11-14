@@ -35,7 +35,7 @@ This notebook constructs and evaluates multiple machine learning models using a 
 - Numeric columns are extracted:
   ```python
   num_cols = df.select_dtypes(include=['int64', 'float64']).drop('isFraud', axis=1).columns.tolist()
-````
+```
 
 * Spearman correlation calculated using a **10,000-row sample**
 * Features with **|correlation| > 0.9** are dropped:
