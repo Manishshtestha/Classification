@@ -1,4 +1,4 @@
-# 📊 **Machine Learning Classification Projects**
+# **Machine Learning Classification Projects**
 
 *A Research-Oriented Portfolio of Applied Predictive Modeling*
 
@@ -15,7 +15,7 @@ Each project folder is **self-contained**, reproducible, and written in a clear,
 
 ---
 
-## 📁 **Repository Structure**
+## **Repository Structure**
 
 Each subdirectory typically includes:
 
